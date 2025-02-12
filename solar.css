@@ -27,6 +27,39 @@ nav{
     color: rgb(32, 16, 177);
 }
 
+/* Responsive design using media queries */
+@media (max-width: 768px) {
+    .logo {
+        margin-left: 0;
+    }
+    .language-selector {
+        margin-left: 0;
+        width: 80px;
+    }
+    .first-box, .second-box, .third-box, .fourth-box, .fifth-box, .sixth-box, .seventh-box, .eighth-box, .ninth-box, .tenth-box {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .first-solar, .second-solar, .third-solar, .fourth-solar, .fifth-solar, .sixth-solar, .seventh-solar, .eighth-solar, .ninth-solar, .tenth-solar {
+        width: 100%;
+        height: auto;
+    }
+    .first-btn, .second-btn, .third-btn, .fourth-btn, .fifth-btn, .sixth-btn, .seventh-btn, .eighth-btn, .ninth-btn, .tenth-btn {
+        width: 100%;
+        margin-left: 0;
+    }
+    nav {
+        padding: 5px;
+    }
+    .sub-heading, .second-subheading, .third-subheading {
+        font-size: 24px;
+    }
+    .first-head, .second-head, .third-head, .fourth-head, .fifth-head, .sixth-head, .seventh-head, .eighth-head, .ninth-head, .tenth-head {
+        font-size: 18px;
+    }
+}
+
 .first-head{
     margin-left: 55px;
     font-size: 24px;
