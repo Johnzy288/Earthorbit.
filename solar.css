@@ -28,7 +28,7 @@ nav{
 }
 
 /* Responsive design using media queries */
-@media (max-width: 268px) {
+@media (max-width: 668px) {
     .logo {
         margin-left: 0;
     }
@@ -37,16 +37,16 @@ nav{
         width: 80px;
     }
     .first-box, .second-box, .third-box, .fourth-box, .fifth-box, .sixth-box, .seventh-box, .eighth-box, .ninth-box, .tenth-box {
-        width: 100%;
+        width: 50%;
         margin-left: 0;
         margin-top: 20px;
     }
     .first-solar, .second-solar, .third-solar, .fourth-solar, .fifth-solar, .sixth-solar, .seventh-solar, .eighth-solar, .ninth-solar, .tenth-solar {
-        width: 100%;
+        width: 50%;
         height: auto;
     }
     .first-btn, .second-btn, .third-btn, .fourth-btn, .fifth-btn, .sixth-btn, .seventh-btn, .eighth-btn, .ninth-btn, .tenth-btn {
-        width: 100%;
+        width: 50%;
         margin-left: 0;
     }
     nav {
