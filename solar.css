@@ -1,0 +1,596 @@
+/*  */
+
+body{
+    box-shadow: black 0px 0px 10px;
+}
+
+.logo{
+    width: 100%;
+    height: 70px;
+    margin-left: -299px;
+}
+
+nav{
+    box-shadow: black 0px 0px 10px;
+    padding: 10px;
+}
+
+.language-selector{
+    margin-left: 1200px;
+    width: 100px;
+    height: 30px;
+}
+
+.sub-heading{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(32, 16, 177);
+}
+
+.first-head{
+    margin-left: 55px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.first-box{
+    border: 1px solid black;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 500px;
+    margin-left: 90px;
+    
+}
+
+
+
+.first-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.first-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.first-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.first-btn{
+    margin-left: 30px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 180px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+.foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Second solar */
+
+.second-box{
+    border: 1px solid black;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: -500px;
+}
+
+.second-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.second-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+.second-head{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.second-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.second-btn{
+    margin-left: 30px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 180px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+.second-foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Third solar */
+
+.third-box{
+    border: 1px solid black;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 500px;
+    margin-left: 700px;
+    margin-top: -500px;
+}
+
+.third-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.third-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+.third-head{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.third-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.third-btn{
+    margin-left: 30px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 180px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+.third-foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Fourth solar */
+
+.fourth-box{
+    border: 1px solid black;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 500px;
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+
+.fourth-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.fourth-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+.fourth-head{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.fourth-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.fourth-btn{
+    margin-left: 30px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 180px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+
+.fourth-foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Fifth solar */
+
+.second-subheading{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(32, 16, 177);
+    margin-top: 30px;
+}
+
+.fifth-box{
+    border: 1px solid black;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 500px;
+    margin-left: 55px;
+    margin-top: 30px;
+}
+
+.fifth-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.fifth-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+.fifth-head{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.fifth-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.fifth-btn{
+    margin-left: 30px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 180px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+.fifth-foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Sixth solar */
+
+.sixth-box{
+    border: 1px solid black;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 500px;
+    margin-left: 370px;
+    margin-top: -500px;
+}
+
+.sixth-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.sixth-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+.sixth-head{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.sixth-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.sixth-btn{
+    margin-left: 30px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 180px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+
+.sixth-foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Seventh solar */
+
+.seventh-box{
+    border: 1px solid black;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 500px;
+    margin-left: 685px;
+    margin-top: -500px;
+}
+
+.seventh-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.seventh-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+.seventh-head{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.seventh-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.seventh-btn{
+    margin-left: 30px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 180px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+.seventh-foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Eighth solar */
+
+.eighth-box{
+    border: 1px solid black;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 500px;
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+
+.eighth-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.eighth-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+.eighth-head{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.eighth-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.eighth-btn{
+    margin-left: 30px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 180px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+.eighth-foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Ninth solar */
+
+.ninth-box{
+    border: 1px solid black;
+    width: 600px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 400px;
+    margin-left: 55px;
+    margin-top: 30px;
+}
+
+.ninth-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.third-subheading{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(32, 16, 177);
+    margin-top: 30px;
+}
+
+.ninth-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 190px;
+}
+
+.ninth-head{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.ninth-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.ninth-btn{
+    margin-left: 130px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 300px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+.ninth-foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* Tenth solar */
+
+.tenth-box{
+    border: 1px solid black;
+    width: 600px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: black 0px 0px 10px;
+    height: 400px;
+    margin-left: 705px;
+    margin-top: -400px;
+}
+
+.tenth-box:hover{
+    box-shadow: black 0px 0px 50px;
+    transition: 2s;
+}
+
+.tenth-solar{
+    width: 210px;
+    height: 150px;
+    margin-left: 190px;
+}
+
+.tenth-head{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.tenth-btn:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.tenth-btn{
+    margin-left: 130px;
+    border: 1px solid rgb(2, 0, 128);
+    width: 300px;
+    text-align: center;
+    height: px;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: rgb(32, 16, 177);
+    color: white;
+}
+
+.tenth-foot{
+    text-align: center;
+    font-weight: lighter;
+}
+
+/* footer */
+
+.footer{
+    background-color: rgb(32, 16, 177);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.footer:hover{
+    background-color: rgb(2, 11, 138);
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer a:hover{
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
