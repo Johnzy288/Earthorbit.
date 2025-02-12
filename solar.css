@@ -28,7 +28,7 @@ nav{
 }
 
 /* Responsive design using media queries */
-@media (max-width: 768px) {
+@media (max-width: 268px) {
     .logo {
         margin-left: 0;
     }
